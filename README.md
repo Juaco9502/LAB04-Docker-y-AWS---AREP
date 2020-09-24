@@ -44,13 +44,13 @@ $$ docker pull juanortizm21/log2:latest
 $$ docker pull juanortizm21/roundrob:latest
 ```
 ## DOCKER HUB
-![4](Img/4.PNG)
+![4](Img/4.png)
 
 ## AMAZON EC2
 ![1](Img/1.JPG)
 
 ## WEB CLIENT
-![2](Img/2.PNG)
+![2](Img/2.png)
 
 2.(Optional):
 If you want to view the documentation of the application, execute the following command and check the following path: root / target / site / apidocs:
