@@ -10,7 +10,7 @@ For the task you must build an application with the proposed architecture and de
 
 # DESIGN
 
-![3](img/3.PNG)
+![3](Img/3.PNG)
 
 # CONTEXT
 
@@ -44,13 +44,13 @@ $$ docker pull juanortizm21/log2:latest
 $$ docker pull juanortizm21/roundrob:latest
 ```
 ## DOCKER HUB
-![4](img/4.PNG)
+![4](Img/4.PNG)
 
 ## AMAZON EC2
-![1](img/1.JPG)
+![1](Img/1.JPG)
 
 ## WEB CLIENT
-![2](img/2.PNG)
+![2](Img/2.PNG)
 
 2.(Optional):
 If you want to view the documentation of the application, execute the following command and check the following path: root / target / site / apidocs:
