@@ -10,7 +10,7 @@ For the task you must build an application with the proposed architecture and de
 
 # DESIGN
 
-![3](Img/3.PNG)
+![3](Img/3.png)
 
 # CONTEXT
 
@@ -44,7 +44,7 @@ $$ docker pull juanortizm21/log2:latest
 $$ docker pull juanortizm21/roundrob:latest
 ```
 ## DOCKER HUB
-![4](Img/4.png)
+![4](Img/4.JPG)
 
 ## AMAZON EC2
 ![1](Img/1.JPG)
